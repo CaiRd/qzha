@@ -1,0 +1,4 @@
+F:\暑假响应式学习\新侨中海岸\qzha.Model\bin\Debug\qzha.Model.dll
+F:\暑假响应式学习\新侨中海岸\qzha.Model\bin\Debug\qzha.Model.pdb
+F:\暑假响应式学习\新侨中海岸\qzha.Model\obj\Debug\qzha.Model.dll
+F:\暑假响应式学习\新侨中海岸\qzha.Model\obj\Debug\qzha.Model.pdb
